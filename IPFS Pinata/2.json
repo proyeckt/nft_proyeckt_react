@@ -1,0 +1,16 @@
+{
+  "id":2,
+  "name":"DUHAUS",
+  "image":"https://gateway.pinata.cloud/ipfs/QmfQ6csWkjnmgsmuprA6yYj1J8ZfKQWmUaEZfLHnRENU7S",
+  "attributes":[
+    {
+      "feature":"primaryColor",
+      "value":"gold"
+    },
+    {
+      "feature":"primaryElement",
+      "value":"footprint"
+    }
+  ],
+  "description":"Design made years ago related to 2016 PROM called DUHAUS"
+}

@@ -1,0 +1,16 @@
+{
+  "id":1,
+  "name":"Castles in the caribbean sea",
+  "image":"https://gateway.pinata.cloud/ipfs/QmZhfJhRbySxc4ZJALLPouXdZwxt9Aoaqwb8HmdS5oVPVF",
+  "attributes":[
+    {
+      "feature":"primaryColor",
+      "value":"blue"
+    },
+    {
+      "feature":"primaryElement",
+      "value":"castle"
+    }
+  ],
+  "description":"Dall-E generated image using 'Castles in the caribbean sea' text"
+}
